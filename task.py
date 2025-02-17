@@ -10,7 +10,7 @@ sheet = workbook.active  # Access the active sheet
 menu_data = {}
 
 # Extract dates from the second row (row 2)
-dates = [cell.value for cell in sheet[2][:]]  # Upto 15th column (inclusive)
+dates = [cell.value for cell in sheet[2][:15]]  # Upto 15th column (inclusive)
 
 # Define meal types and their corresponding row ranges
 meal_types = {
