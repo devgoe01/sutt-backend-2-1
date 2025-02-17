@@ -1,0 +1,403 @@
+{
+    "2024-02-16": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "Poha",
+            "Sev",
+            "COCONUT CHUTNEY",
+            "kinu",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "ONION SALAD",
+            "DHABA PANEER",
+            "CHICKEN kukupaka",
+            "VEG BIRYANI",
+            "NAAN / CHAPATI",
+            "MIX VEG RAITA",
+            "CHOCOLATE ICE CREAM"
+        ],
+        "Dinner": [
+            "CORN SALAD",
+            "veg makhani",
+            "DAL LASOONI",
+            "CHAPATI",
+            "PLAIN RICE",
+            "RASAM",
+            "TOMATO SOUP"
+        ]
+    },
+    "2024-02-17": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "Masala dosa",
+            "Sambhar",
+            "GRAPES",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "GREEN SALAD",
+            "BAINGAN BHARTA",
+            "RAJMA RASILA",
+            "DAL TADKA",
+            "CHAPATI",
+            "PLAIN RICE",
+            "SAMBAR",
+            "SWEET LASSI"
+        ],
+        "Dinner": [
+            "LEMON + ONION",
+            "BHAJI",
+            "DAL PANCHRATAN",
+            "PAV/ CHAPATI( LDT)",
+            "PLAIN RICE",
+            "RASAM"
+        ]
+    },
+    "2024-02-18": {
+        "Breakfast": [
+            "MIX SPROUT",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "aloo paratha",
+            "TOMATO KETCHUP",
+            "SWEET DALIYA",
+            "BANANA",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "GREEN SALAD",
+            "SHAHI GOBHI",
+            "dal maharani",
+            "CHAPATI",
+            "aloo mutter dry",
+            "JEERA RICE",
+            "GULAB JAMUN"
+        ],
+        "Dinner": [
+            "LEMON + ONION",
+            "KHATTA MEETHA PUMPKIN",
+            "CHOLE MASALA",
+            "AJWAINI PURI / CHAPATI",
+            "JEERA RICE",
+            "boondi raita"
+        ]
+    },
+    "2024-02-19": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "RAWA IDLI",
+            "SAMBHAR",
+            "COCONUT CHUTNEY",
+            "pineapple",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "ONION SALAD",
+            "PANEER LABABDAR",
+            "chicken curry",
+            "DAL MAKHANI",
+            "CHAPATI",
+            "VEG PULAO",
+            "ONION MINT RAITA",
+            "SHIKANJI"
+        ],
+        "Dinner": [
+            "GREEN SALAD",
+            "SOYA MUTTER",
+            "DAL FRY",
+            "CHAPATI",
+            "PLAIN RICE",
+            "RASAM",
+            "RICE PHIRNI"
+        ]
+    },
+    "2024-02-20": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "Misal pav",
+            "CUT ONION LEMON",
+            "PAPAYA",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "aloo chips",
+            "SWEET POTATO DRY",
+            "onion kadhi",
+            "VEG KHICHDI",
+            "CHAPATI",
+            "PLAIN RICE",
+            "SAMBHAR",
+            "COCONUT BURFI"
+        ],
+        "Dinner": [
+            "Peanut salad",
+            "VEG MANCHURIAN",
+            "BLACK MASOOR DAL",
+            "EGG FRIED RICE / VEG FRIED RICE/VEG HAKKA NOODLES",
+            "CHAPATI",
+            "RASAM"
+        ]
+    },
+    "2024-02-21": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "sabudana khichdi",
+            "curd",
+            "WATERMELON",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "papdi chaat",
+            "MASALA ALOO DRY",
+            "VEG KOFTA CURRY",
+            "arhar dal tadka",
+            "CHAPATI",
+            "JEERA RICE",
+            "BURANI RAITA",
+            "ORANGE SHARBET"
+        ],
+        "Dinner": [
+            "corn tikki",
+            "green chutney",
+            "paneer tikka masala",
+            "chicken kolhapuri",
+            "zafrani pulao",
+            "tikona paratha",
+            "moong dal halwa"
+        ]
+    },
+    "2024-02-22": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "methi thepla",
+            "sweet daliya",
+            "green chutney",
+            "GRAPS",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "TOMATO KETCHUP",
+            "french fries",
+            "RAGDA MUTTER",
+            "CURD /BUTTER",
+            "aloo PARATHA",
+            "PLAIN RICE",
+            "SAMBAR",
+            "khus sherbet"
+        ],
+        "Dinner": [
+            "GREEN SALAD",
+            "veg kolhapuri",
+            "DAL FRY",
+            "CHAPATI",
+            "PLAIN RICE",
+            "RASAM",
+            "SEVIYA KHEER"
+        ]
+    },
+    "2024-02-23": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "mysore bonda",
+            "sweet daliya",
+            "pineapple",
+            "WATER MELON",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "GREEN SALAD",
+            "KADHAI PANEER",
+            "butter chicken",
+            "peas pulao",
+            "NAAN / CHAPATI",
+            "pineapple raita",
+            "strawberry i/c"
+        ],
+        "Dinner": [
+            "PASTA SALAD red sauce",
+            "ALOO PALAK",
+            "RED MASOOR TADKA",
+            "CHAPATI",
+            "PLAIN RICE",
+            "RASAM"
+        ]
+    },
+    "2024-02-24": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "VEG POHA",
+            "SEV",
+            "ONION + LEMON",
+            "KINU",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "aloo chana chaat",
+            "lauki masala dry",
+            "RAJMA MASALA",
+            "DAL TADKA",
+            "CHAPATI",
+            "PLAIN RICE",
+            "SAMBAR",
+            "MASALA CHACCH"
+        ],
+        "Dinner": [
+            "TOMATO/ COCONUT CHUTNEY",
+            "VADA",
+            "SAMBHAR",
+            "MASALA DOSA",
+            "LEMON RICE",
+            "CHAPATI( LTD)"
+        ]
+    },
+    "2024-02-25": {
+        "Breakfast": [
+            "MIX SPROUT",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "gobhi paratha",
+            "ADRAK CHUTNEY",
+            "SWEET DALIYA",
+            "BANANA",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "MICRONI SALAD",
+            "ALOO GOBHI ADRAKI",
+            "GUTTA CURRY",
+            "DAL PALAK",
+            "CHAPATI",
+            "PLAIN RICE",
+            "SAMBAR",
+            "LITCHI SHARBET"
+        ],
+        "Dinner": [
+            "LEMON + ONION",
+            "MIRCH KA SALAN",
+            "CHOLE MASALA",
+            "BHATURE / CHAPATI",
+            "JEERA RICE",
+            "RASAM",
+            "shahi tukda"
+        ]
+    },
+    "2024-02-26": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "ONION TOMATO UTAPPAM",
+            "SAMBHAR",
+            "COCONUT CHUTNEY",
+            "PAPAYA",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "ONION SALAD",
+            "mutter paneer",
+            "CHAPATI",
+            "onion pulao",
+            "lauki raita",
+            "COOKIES & CREAM I/C"
+        ],
+        "Dinner": [
+            "GREEN SALAD",
+            "VEG DIWANI HANDI",
+            "DAL MASALA",
+            "PLAIN RICE",
+            "CHAPATI",
+            "RASAM",
+            "VEG MANCHOW SOUP"
+        ]
+    },
+    "2024-02-27": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "stuff kulcha",
+            "ADRAK CHUTNEY",
+            "grapes",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "ROASTED PAPAPD",
+            "RAW BANANA MASALA",
+            "KADHI PAKODA",
+            "CURD RICE",
+            "CHAPATI",
+            "PLAIN RICE",
+            "SAMBHAR",
+            "SHIKANJI"
+        ],
+        "Dinner": [
+            "ALOO MUTTER TAMATAR",
+            "ARHAR DAL TADKA",
+            "CHAPATI",
+            "PLAIN RICE",
+            "RASAM",
+            "gajar ka halwa"
+        ]
+    },
+    "2024-02-28": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "besan chila",
+            "TOMATO KETCHUP",
+            "seviya kheer",
+            "WATER MELON",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Lunch": [
+            "BHEL POORI",
+            "MIX VEG DRY",
+            "PALAK CORN",
+            "DAL LAHSUNI",
+            "CHAPATI",
+            "PLAIN RICE",
+            "SAMBAR",
+            "mix blast"
+        ],
+        "Dinner": [
+            "GREEN SALAD",
+            "SOYA CHAAP",
+            "DAL MAKHANI",
+            "CHAPATI",
+            "PLAIN RICE",
+            "cucumber raita",
+            "JALEBI"
+        ]
+    }
+}
